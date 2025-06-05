@@ -2,9 +2,8 @@
 
 ## 🧩 Figma Design Preview
 
-[![Figma Preview](![image](https://github.com/user-attachments/assets/9c06ec46-8f9c-4bfb-b886-184f21240e16)
-)](![image](https://github.com/user-attachments/assets/217a313e-3557-4437-bbd5-9ab1a3924d28)
-)
+[![Figma Preview](https://github.com/user-attachments/assets/9a979dfd-94b9-4660-8c6f-ec9e404b1fca)](https://github.com/user-attachments/assets/9a979dfd-94b9-4660-8c6f-ec9e404b1fca)
+
 
 ➡️ [**View Full Design in Figma**](https://www.figma.com/proto/4LteC8WapAz8pwxhac4fYC/PORTFOLIO?node-id=2406-718&p=f&viewport=-1282%2C-561%2C0.13&t=26T7HaZZtlI2fGZ4-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=2406%3A718&show-proto-sidebar=1)
 
