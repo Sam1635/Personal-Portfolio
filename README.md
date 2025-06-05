@@ -10,8 +10,7 @@
 
 ## 💻 Desktop View
 
-<img width="1335" alt="Screenshot 2025-06-05 at 7 32 24 PM" src="![image](https://github.com/user-attachments/assets/c2db4ae0-063d-49ca-96d9-18b557148307)
-" />
+<img width="1335" alt="Screenshot 2025-06-05 at 7 32 24 PM" src="https://github.com/user-attachments/assets/e63b94e4-45cf-4852-bf77-228d960259b2" />
 
 ---
 
