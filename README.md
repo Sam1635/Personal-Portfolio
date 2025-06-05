@@ -1,6 +1,7 @@
 # Personal-Portfolio
 
-[![Figma Preview](https://github.com/user-attachments/assets/c0ec1744-2301-4463-8d91-2fc0def2a4f9)]([https://www.figma.com/file/your-file-id/your-project-name?type=design](https://github.com/user-attachments/assets/c0ec1744-2301-4463-8d91-2fc0def2a4f9))
+
+[![Figma Preview](https://github.com/user-attachments/assets/4b521aff-2c54-4287-bc4f-b7f07d9c5bc4)](https://github.com/user-attachments/assets/4b521aff-2c54-4287-bc4f-b7f07d9c5bc4)
 
 
 ## 🧩 Figma Design
